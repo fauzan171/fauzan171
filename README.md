@@ -63,10 +63,10 @@
   </p>
   <p align="center">
     <picture>
-      <!-- CAREFUL: Using the EXACT repo name provided by user: fauzan171-fauzan171 -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fauzan171/fauzan171-fauzan171/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fauzan171/fauzan171-fauzan171/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fauzan171/fauzan171-fauzan171/output/github-contribution-grid-snake.svg">
+      <!-- CAREFUL: Using the EXACT repo name provided by user: fauzan171/fauzan171 -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fauzan171/fauzan171/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fauzan171/fauzan171/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fauzan171/fauzan171/output/github-contribution-grid-snake.svg">
     </picture>
   </p>
 
