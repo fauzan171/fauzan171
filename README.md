@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Andi+Fauzan+Hediantoro;Full-Stack+Developer+%7C+IoT+Enthusiast;Building+things+that+matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Andi+Fauzan+Hediantoro;Full-Stack+Developer;Building+things+that+matter" alt="Typing SVG" />
   </a>
 
   <br>
@@ -30,84 +30,61 @@ const fauzan = {
   name: "Andi Fauzan Hediantoro",
   location: "Indonesia",
   role: "Full-Stack Developer",
-  currentFocus: ["Web Applications", "IoT Integration", "ERP Systems", "Mobile Development"],
+  currentFocus: ["Web Applications", "ERP Systems", "Mobile Development"],
   askMeAbout: ["TypeScript", "React", "Node.js", "Flutter", "Python"],
-  funFact: "I built a smart Umrah pilgrimage app with real-time IoT tracking"
+  funFact: "I built a smart Umrah pilgrimage app with real-time tracking"
 };
 ```
 
 <div align="center">
 
+  <a href="mailto:andifuazan986@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/andi-fauzan-a449a7284/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/andifauzanh_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/fauzan171">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 
 </div>
 
 <br>
 
-<!-- Tech Stack -->
+<!-- Tech Stack with Large Real Logos -->
 ## `< Tech Stack />`
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PLpgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Frontend</strong><br><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Backend & Tools</strong><br><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Mobile & IoT</strong><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/IoT-E34F26?style=flat-square&logo=iot&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- GitHub Stats -->
-## `< GitHub Stats />`
-
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fauzan171&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fauzan171&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" title="Dart" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" title="C" />
 
-</div>
+<br><br>
 
-<div align="center">
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan171&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+<br><br>
+
+### Backend & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux" />
+
+<br><br>
+
+### Mobile
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" title="Flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android" title="Android" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase" title="Firebase" />
 
 </div>
 
@@ -127,11 +104,10 @@ const fauzan = {
         </a>
       </h3>
       <p align="center">
-        <em>Smart assistant for Umrah pilgrims with real-time tracking, guidance, and IoT integration for safer pilgrimage</em>
+        <em>Smart assistant for Umrah pilgrims with real-time tracking, guidance, and navigation</em>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-Enabled-orange?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -216,16 +192,12 @@ const fauzan = {
 
 <br>
 
-<!-- Contribution Activity -->
-## `< Activity />`
+<!-- Contribution Minimap -->
+## `< Contribution Minimap />`
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fauzan171/fauzan171/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fauzan171/fauzan171/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake-animation" src="https://raw.githubusercontent.com/fauzan171/fauzan171/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzan171&theme=github_dark" alt="Contribution Minimap" width="100%" />
 
 </div>
 
@@ -236,26 +208,17 @@ const fauzan = {
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Interests-Government_Tech-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interests-IoT_Solutions-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interests-Web_Development-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Interests-ERP_Systems-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Interests-Mobile_Development-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Interests-AI_Agents-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interests-Open_Source-red?style=flat-square" />
 
   <br><br>
 
   <p>
     <em>Actively exploring open-source projects, contributing to the developer community,<br>and building solutions that bridge technology with real-world impact.</em>
   </p>
-
-</div>
-
-<br>
-
-<!-- Trophies -->
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=fauzan171&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
 
 </div>
 
