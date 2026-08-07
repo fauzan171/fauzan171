@@ -1,246 +1,132 @@
-<!--
-  ============================================================
-  ANDI FAUZAN HEDIANTORO — GitHub Profile README
-  Professional, modern, international-standard developer profile
-  ============================================================
--->
-
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Andi+Fauzan+Hediantoro;Full-Stack+Developer;Building+things+that+matter" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:14b8a6&text=Andi%20Fauzan%20Hediantoro&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Jakarta,%20Indonesia&descAlignY=57&animation=fadeIn" width="100%" alt="Header banner" />
+
+<p>
+  <a href="https://andifauzanh.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/andi-fauzan-a449a7284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Andi%20Fauzan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andifuazan986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/fauzan171">
+    <img src="https://komarev.com/ghpvc/?username=fauzan171&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
+  </a>
+</p>
 
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=fauzan171&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
+<h3>Building practical software for web, mobile, and operational systems.</h3>
 
 </div>
 
-<!-- About Section -->
-## `< About Me />`
+## About
 
-```typescript
-const fauzan = {
-  name: "Andi Fauzan Hediantoro",
-  location: "Indonesia",
+I am **Andi Fauzan Hediantoro**, a **Full-Stack Developer** based in **Jakarta, Indonesia**.  
+My work is centered on shipping useful products, improving workflows, and building systems that are clear, maintainable, and grounded in real use cases.
+
+- Strong interest in `full-stack development`, `internal tools`, and `mobile products`
+- Comfortable working with `TypeScript`, `React`, `Node.js`, `Flutter`, and `Python`
+- Drawn to products involving `ERP`, `automation`, and `operational efficiency`
+- Open to collaboration, freelance work, and meaningful open-source contributions
+
+## Focus
+
+```ts
+const andi = {
   role: "Full-Stack Developer",
-  currentFocus: ["Web Applications", "ERP Systems", "Mobile Development"],
-  askMeAbout: ["TypeScript", "React", "Node.js", "Flutter", "Python"],
-  funFact: "I built a smart Umrah pilgrimage app with real-time tracking"
+  basedIn: "Jakarta, Indonesia",
+  primaryStack: ["TypeScript", "React", "Node.js", "Flutter", "Python"],
+  currentFocus: ["Web applications", "Backend systems", "Workflow-driven products"],
+  values: ["Clarity", "usefulness", "steady iteration"]
 };
 ```
 
-<div align="center">
+## Tech Stack
 
-  <a href="mailto:andifuazan986@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/andi-fauzan-a449a7284/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+**Frontend**  
+![React](https://img.shields.io/badge/React-061a23?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f2747?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2a2200?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-082f49?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 
-</div>
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/Node.js-0f2e16?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e)
+![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=ffde57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172554?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Firebase](https://img.shields.io/badge/Firebase-3b1d00?style=for-the-badge&logo=firebase&logoColor=ffca28)
 
-<br>
+**Mobile & Tools**  
+![Flutter](https://img.shields.io/badge/Flutter-082f49?style=for-the-badge&logo=flutter&logoColor=54c5f8)
+![Dart](https://img.shields.io/badge/Dart-083344?style=for-the-badge&logo=dart&logoColor=00b4ab)
+![Docker](https://img.shields.io/badge/Docker-0b1f3a?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-3a1608?style=for-the-badge&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-1f2937?style=for-the-badge&logo=linux&logoColor=fcc624)
 
-<!-- Tech Stack with Large Real Logos -->
-## `< Tech Stack />`
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" title="Dart" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" title="C" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" title="React" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" title="Docker" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter" title="Flutter" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" height="45" alt="Android" title="Android" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase" title="Firebase" />
-
-</div>
-
-<br>
-
-<!-- Featured Projects -->
-## `< Featured Projects />`
-
-<div align="center">
+## Selected Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/fauzan171/smartUmrahApp">
-          <img src="https://img.shields.io/badge/Smart_Umrah_App-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-        </a>
-      </h3>
-      <p align="center">
-        <em>Smart assistant for Umrah pilgrims with real-time tracking, guidance, and navigation</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <h3>Smart Umrah App</h3>
+      <p>Product concept focused on helping Umrah pilgrims through guidance, navigation, and practical assistance.</p>
+      <p><a href="https://github.com/fauzan171/smartUmrahApp">View Repository</a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/fauzan171/kath-landingPage">
-          <img src="https://img.shields.io/badge/Kath_Landing_Page-58A6FF?style=for-the-badge&logo=react&logoColor=white" />
-        </a>
-      </h3>
-      <p align="center">
-        <em>Full-featured landing page application with TypeScript, PostgreSQL backend, and Python integration</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <h3>Savanna Backyard</h3>
+      <p>Recent TypeScript-focused project work with a stronger full-stack direction and active development activity.</p>
+      <p><a href="https://github.com/fauzan171/savanna-backyard">View Repository</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/fauzan171/openclaw-trend-digest">
-          <img src="https://img.shields.io/badge/OpenClaw_Trend_Digest-58A6FF?style=for-the-badge&logo=trendmicro&logoColor=white" />
-        </a>
-      </h3>
-      <p align="center">
-        <em>Trend digest tool with containerized deployment using TypeScript, Shell scripting, and Docker</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
+    <td width="50%" valign="top">
+      <h3>ERP SGA 2026</h3>
+      <p>ERP-oriented project reflecting interest in structured workflows, business processes, and operational systems.</p>
+      <p><a href="https://github.com/fauzan171/erp-sga2026">View Repository</a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/fauzan171/mobile-masjid-khabdurrahmanwahid">
-          <img src="https://img.shields.io/badge/Masjid_KH_App-58A6FF?style=for-the-badge&logo=flutter&logoColor=white" />
-        </a>
-      </h3>
-      <p align="center">
-        <em>Mobile application for mosque management built with Flutter/Dart for cross-platform support</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/fauzan171/erp-sga2026">
-          <img src="https://img.shields.io/badge/ERP_SGA_2026-58A6FF?style=for-the-badge&logo=sap&logoColor=white" />
-        </a>
-      </h3>
-      <p align="center">
-        <em>Enterprise Resource Planning system for organizational management and operations</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full_Stack-6C63FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Enterprise-FF6B6B?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
-        <a href="https://github.com/fauzan171/redesigned-eureka">
-          <img src="https://img.shields.io/badge/OOP_Student_Manager-58A6FF?style=for-the-badge&logo=javascript&logoColor=white" />
-        </a>
-      </h3>
-      <p align="center">
-        <em>Student data management system with OOP principles, IPK validation (0.00-4.00), and clean architecture</em>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/OOP-Design-9B59B6?style=flat-square" />
-      </p>
+    <td width="50%" valign="top">
+      <h3>Masjid KH App</h3>
+      <p>Flutter-based mobile application project for practical community and management needs.</p>
+      <p><a href="https://github.com/fauzan171/mobile-masjid-khabdurrahmanwahid">View Repository</a></p>
     </td>
   </tr>
 </table>
 
-</div>
-
-<br>
-
-<!-- Contribution Minimap -->
-## `< Contribution Minimap />`
+## GitHub Overview
 
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzan171&theme=github_dark" alt="Contribution Minimap" width="100%" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fauzan171&show_icons=true&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan171&layout=compact&hide_border=true&title_color=0f172a&text_color=334155&bg_color=ffffff" alt="Top languages" />
 </div>
 
-<br>
-
-<!-- Open Source Interest -->
-## `< Open Source & Interests />`
-
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Interests-Web_Development-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interests-ERP_Systems-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interests-Mobile_Development-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interests-AI_Agents-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interests-Open_Source-red?style=flat-square" />
-
-  <br><br>
-
-  <p>
-    <em>Actively exploring open-source projects, contributing to the developer community,<br>and building solutions that bridge technology with real-world impact.</em>
-  </p>
-
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzan171&theme=github" alt="Contribution graph" />
 </div>
 
-<br>
+## What I Enjoy Building
 
-<!-- Footer -->
+- Workflow-driven products that solve practical problems
+- Internal dashboards and admin tools
+- Mobile applications with real-world utility
+- Clean and maintainable developer-focused systems
+
+## Contact
+
+- Portfolio: `andifauzanh.my.id`
+- LinkedIn: `linkedin.com/in/andi-fauzan-a449a7284`
+- Email: `andifuazan986@gmail.com`
+
+## One Small Meme
+
+<details>
+  <summary>Professional on top, developer underneath</summary>
+  <br />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="360" alt="Coding meme gif" />
+  <p><sub>When the code works and nobody knows why.</sub></p>
+</details>
+
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Made_with-❤️_and_☕-58A6FF?style=flat-square" alt="Made with love" />
-
-  <br><br>
-
-  <p>
-    <sub><em>"First, solve the problem. Then, write the code."</em> — John Johnson</sub>
-  </p>
-
+  <sub>Clean code. Useful products. Consistent progress.</sub>
 </div>
